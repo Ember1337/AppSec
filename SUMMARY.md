@@ -2,5 +2,5 @@
 
 * [Initial page](README.md)
 * [Introduction](introduction.md)
-* [Different Types of](different-types-of.md)
+* [Verticals in Security](different-types-of.md)
 
