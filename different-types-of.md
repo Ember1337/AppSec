@@ -27,7 +27,7 @@ As part of SSDLC, major domains that need to be covered are
 
 **Secure Coding Training for Developers** 
 
-**OWASP Top 10**
+**OWASP Top 10, Fixing OWASP Top 10.** 
 
 **SAST, DAST, IAST, RAST**
 
@@ -35,7 +35,17 @@ As part of SSDLC, major domains that need to be covered are
 
 **Integration with CI/CD Pipeline**
 
-\*\*\*\*
+## **Network**
+
+**Class A, B, C**
+
+**Subnetting**
+
+**OSI Layers**
+
+**IOC's**
+
+
 
 
 
