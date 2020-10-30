@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Introduction](README.md)
 * [Introduction](introduction.md)
-* [Verticals in Security](different-types-of.md)
+* [Verticals in Security](verticals-in-security.md)
 
