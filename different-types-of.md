@@ -33,6 +33,8 @@ As part of SSDLC, major domains that need to be covered are
 
 **Scanning for Opensource tools and libs.**
 
+**CI/CD Pipeline**
+
 \*\*\*\*
 
 
