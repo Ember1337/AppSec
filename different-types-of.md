@@ -45,6 +45,24 @@ As part of SSDLC, major domains that need to be covered are
 
 **IOC's**
 
+**TLS handshake**
+
+## _**Infrastructure**_
+
+**OS - Windows and Linux Architecture**
+
+**Memory Management**
+
+**Endpoint protection**
+
+**Vulnerability Scanning**
+
+**Patching**
+
+## **Misc**
+
+**Containers & Kubernetics**
+
 
 
 
