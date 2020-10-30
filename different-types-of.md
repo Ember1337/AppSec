@@ -41,7 +41,7 @@ As part of SSDLC, major domains that need to be covered are
 
 **Subnetting**
 
-**OSI Layers**
+**OSI Layers & Protocols**
 
 **IOC's**
 
