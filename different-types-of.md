@@ -59,7 +59,7 @@ As part of SSDLC, major domains that need to be covered are
 
 **Patching**
 
-## **Misc**
+## _**Misc**_
 
 **Containers & Kubernetics**
 
